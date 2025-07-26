@@ -1,15 +1,15 @@
-Xenon Community License v1.0 (Based on GPLv3)
+Xenon Community Additional Requirement License v1.0
 
-This software is licensed under the GNU General Public License v3.0 (GPLv3), with the following additional condition:
 
 Attribution Requirement:
 Any public or private redistribution of this code — whether modified or unmodified — must include the following visible attribution:
 
-"This code is developed by Xenon Community. Original Source: https://github.com/XenonCommunity/[your-repo]"
+"This code is developed by Xenon Community. Original Source: https://github.com/XenonCommunity/apps"
 
 Redistributors must retain this notice in all binary and source forms.
 
-Full GPLv3 terms apply and can be found here:
-https://www.gnu.org/licenses/gpl-3.0.en.html
+The code cannot be used in any closed source project.
+
+To read the actual GPLv3 license text, go to the LICENSE file
 
 © 2025 Xenon Community. All rights reserved.
